@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+| <a href="https://a-nau.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api?username=a-nau&show_icons=true&include_all_commits=true&hide_border=true" alt="Alex's github stats" /></a> | <a href="https://a-nau.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-nau&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!--
 **a-nau/a-nau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
