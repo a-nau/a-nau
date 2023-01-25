@@ -9,7 +9,6 @@
 - Image scraping from Google, Bing, Baidu and Yahoo <img src="https://img.shields.io/github/stars/a-nau/easy-image-scraping?style=social"/>
 - CNN Training with Detectron2, including Github CI <img src="https://img.shields.io/github/stars/a-nau/image-selection-and-cnn-training?style=social"/>
 - Minimal template for publishing research code  <img src="https://img.shields.io/github/stars/a-nau/research-code-template-python?style=social"/>
-- CodeSCAN [project page](https://a-nau.github.io/codescan/): A dataset for ScreenCast ANalysis for Video Programming Tutorials 
 - [Code](https://github.com/a-nau/Plane-Segmentation-Refinement) of paper "Refined Plane Segmentation for Cuboid-Shaped Objects by Leveraging Edge Detection" <img src="https://img.shields.io/github/stars/a-nau/Plane-Segmentation-Refinement?style=social"/>
 - [Repos](https://a-nau.github.io/parcel2d/) of paper "Scrape, Cut, Paste and Learn: Automated Dataset Generation Applied to Parcel Logistics"
 - Visualize and briefly explain the difference between the allocentric and the egocentric pose of an object, as used frequently in machine learning papers <img src="https://img.shields.io/github/stars/a-nau/allocentric_vs_egocentric_pose?style=social"/>
