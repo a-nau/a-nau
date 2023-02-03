@@ -23,7 +23,7 @@
 
 ### Other
 
-- [yaml2pyclass](https://github.com/a-nau/yaml2pyclass): Code generator that produces a Python class from a YAML input file as `pip` package <a href="https://github.com/a-nau/yaml2pyclass"><img src="https://img.shields.io/github/stars/a-nau/password-protected-website-template?style=social"/></a> <img src="https://img.shields.io/pypi/dm/yaml2pyclass">
+- [yaml2pyclass](https://github.com/a-nau/yaml2pyclass): Code generator that produces a Python class from a YAML input file as `pip` package <a href="https://github.com/a-nau/yaml2pyclass"><img src="https://img.shields.io/github/stars/a-nau/yaml2pyclass?style=social"/></a> <img src="https://img.shields.io/pypi/dw/yaml2pyclass">
 - [pdf-link-checker](https://github.com/marketplace/actions/pdf-link-checker): Github Action to automatically check all links in a PDF for dead or broken links  <a href="https://github.com/a-nau/pdf-link-checker"><img src="https://img.shields.io/github/stars/a-nau/pdf-link-checker?style=social"/></a>
 - Easy usage of shortcuts for Windows with AutoHotKey <a href="https://github.com/a-nau/AutoHotKey-GUI-and-Commands"><img src="https://img.shields.io/github/stars/a-nau/AutoHotKey-GUI-and-Commands?style=social"/></a>
 - Scripts to automatically map a specific CUDA version to a Conda Python environment <a href="https://github.com/a-nau/python-cuda-envs"><img src="https://img.shields.io/github/stars/a-nau/python-cuda-envs?style=social"/></a>
