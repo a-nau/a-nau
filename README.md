@@ -23,8 +23,8 @@
 
 ### Other
 
-- [yaml2pyclass](https://github.com/a-nau/yaml2pyclass): Code generator that produces a Python class from a YAML input file as `pip` package <a href="https://github.com/a-nau/yaml2pyclass"><img src="https://img.shields.io/github/stars/a-nau/yaml2pyclass?style=social"/></a> <img src="https://img.shields.io/pypi/dw/yaml2pyclass">
-- [pdf-link-checker](https://github.com/marketplace/actions/pdf-link-checker): Github Action to automatically check all links in a PDF for dead or broken links  <a href="https://github.com/a-nau/pdf-link-checker"><img src="https://img.shields.io/github/stars/a-nau/pdf-link-checker?style=social"/></a>
+- [yaml2pyclass](https://github.com/a-nau/yaml2pyclass): Code generator that produces a Python class from a YAML input file as `pip` package <a href="https://github.com/a-nau/yaml2pyclass"><img src="https://img.shields.io/github/stars/a-nau/yaml2pyclass?style=social"/></a> <a href="https://pypi.org/project/yaml2pyclass/"><img src="https://img.shields.io/pypi/dw/yaml2pyclass"></a>
+- [pdf-link-checker](https://github.com/marketplace/actions/pdf-link-checker): Github Action and CLI tool to automatically check all links in a PDF for dead or broken links  <a href="https://github.com/a-nau/pdf-link-checker"><img src="https://img.shields.io/github/stars/a-nau/pdf-link-checker?style=social"/></a> <a href="https://pypi.org/project/pdflinkchecker-cli/"><img src="https://img.shields.io/pypi/dw/pdf-link-checker"></a>
 - Easy usage of shortcuts for Windows with AutoHotKey <a href="https://github.com/a-nau/AutoHotKey-GUI-and-Commands"><img src="https://img.shields.io/github/stars/a-nau/AutoHotKey-GUI-and-Commands?style=social"/></a>
 - Scripts to automatically map a specific CUDA version to a Conda Python environment <a href="https://github.com/a-nau/python-cuda-envs"><img src="https://img.shields.io/github/stars/a-nau/python-cuda-envs?style=social"/></a>
 - Extension to the standard Python logging package which facilitates tracking with Git and provides decorators for messages <a href="https://github.com/a-nau/Logging-Extended"><img src="https://img.shields.io/github/stars/a-nau/Logging-Extended?style=social"/></a>
