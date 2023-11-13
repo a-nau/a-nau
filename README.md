@@ -5,6 +5,7 @@
 
 ### Deep Learning
 
+- [TAMPAR](https://github.com/a-nau/tampar): Tampering detection for parcel logistics from our WACV '24 paper *"TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains"*  <a href="https://github.com/a-nau/tampar"><img src="https://img.shields.io/github/stars/a-nau/tampar?style=social"/></a>
 - [CubeRefine R-CNN](https://github.com/a-nau/CubeRefine-R-CNN): architecture for 3D Reconstruction for potentially damaged parcels from our CVPRW '23 paper *"Parcel3D: Shape Reconstruction From Single RGB Images for Applications in Transportation Logistics"* <a href="https://github.com/a-nau/CubeRefine-R-CNN"><img src="https://img.shields.io/github/stars/a-nau/CubeRefine-R-CNN?style=social"/></a>
 - [lanelet2anchors](https://github.com/FelixHertlein/lanelet2anchors): `pip` package for the generation of diverse map-based anchor paths from our CVPRW' 23 paper *"Lanelet2 for nuScenes: Enabling Spatial Semantic Relationships and Diverse Map-based Anchor Paths"*  <a href="https://github.com/FelixHertlein/lanelet2anchors"><img src="https://img.shields.io/github/stars/FelixHertlein/lanelet2anchors?style=social"/></a> <a href="https://pypi.org/project/lanelet2anchors/"><img src="https://img.shields.io/pypi/dw/lanelet2anchors"></a>
 - [Repos](https://a-nau.github.io/parcel2d/) of paper *"Scrape, Cut, Paste and Learn: Automated Dataset Generation Applied to Parcel Logistics"*
